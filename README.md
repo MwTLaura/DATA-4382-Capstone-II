@@ -1,9 +1,3 @@
-That’s fine. Screenshots still count as visuals if they support your results clearly. The key is **placement + labeling**, not perfection.
-
-Below is your final version with **clean visual placeholders and captions** added exactly where graders and recruiters expect them.
-
----
-
 # DATA-4382 Capstone II
 
 # AI-Powered Environmental Health Literature Extraction Pipeline
