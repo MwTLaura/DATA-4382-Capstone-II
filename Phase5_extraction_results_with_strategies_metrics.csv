@@ -1,0 +1,9 @@
+metric,TP,FP,FN,precision,recall,f1,strategies_used,papers_with_match,total_papers,coverage_pct
+exposure_layer1,364.0,0.0,23.0,100.0,94.06,96.94,"{'exact': 350, 'fuzzy_standard': 14}",,,
+exposure_layer2,309.0,55.0,29.0,84.89,91.42,88.03,"{'fuzzy_normalized': 34, 'contains': 21, 'partial_word': 21, 'exact': 212, 'fuzzy_standard': 13, 'word_overlap': 8}",,,
+exposure_layer3,304.0,60.0,20.0,83.52,93.83,88.37,"{'exact': 18, 'partial_word': 172, 'fuzzy_standard': 11, 'contains': 81, 'fuzzy_normalized': 17, 'word_overlap': 5}",,,
+outcome_layer1,327.0,2.0,24.0,99.39,93.16,96.18,{'exact': 327},,,
+outcome_layer2,294.0,35.0,35.0,89.36,89.36,89.36,"{'contains': 53, 'exact': 74, 'fuzzy_normalized': 83, 'partial_word': 67, 'fuzzy_standard': 6, 'word_overlap': 5, 'normalized_contains': 6}",,,
+outcome_layer3,217.0,112.0,45.0,65.96,82.82,73.43,"{'partial_word': 77, 'exact': 18, 'fuzzy_standard': 15, 'contains': 66, 'fuzzy_normalized': 31, 'normalized_contains': 8, 'word_overlap': 2}",,,
+paper_level_exposure,,,,,,,,121.0,121.0,100.0
+paper_level_outcome,,,,,,,,121.0,121.0,100.0

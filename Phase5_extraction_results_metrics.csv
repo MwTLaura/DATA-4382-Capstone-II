@@ -1,0 +1,9 @@
+metric,TP,FP,FN,precision,recall,f1,papers_with_match,total_papers,coverage_pct
+exposure_layer1,120.0,18.0,208.0,86.96,36.59,51.5,,,
+exposure_layer2,99.0,60.0,482.0,62.26,17.04,26.76,,,
+exposure_layer3,95.0,266.0,752.0,26.32,11.22,15.73,,,
+outcome_layer1,112.0,18.0,95.0,86.15,54.11,66.47,,,
+outcome_layer2,82.0,70.0,688.0,53.95,10.65,17.79,,,
+outcome_layer3,76.0,242.0,793.0,23.9,8.75,12.81,,,
+paper_level_exposure,,,,,,,119.0,121.0,98.35
+paper_level_outcome,,,,,,,119.0,121.0,98.35
