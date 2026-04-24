@@ -220,7 +220,10 @@ env-health-extraction/
 ├── important results/
 │   ├── aggressive_semantic_extraction_20260311_163232.csv       
 │   ├── aggressive_semantic_outcomes_20260311_161726.csv
-│   └── validation_metrics.csv       # Layer-by-layer accuracy vs. ground truth
+│   ├──  Phase5_extraction_results.csv
+│   ├── Phase5_extraction_results_metrics.csv
+│   ├── Phase5_extraction_results_with_strategies.csv
+│   └── Phase5_extraction_results_with_strategies_metrics.csv
 ```
 
 ---
