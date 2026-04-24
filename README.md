@@ -68,9 +68,7 @@ This project develops an AI pipeline that automatically extracts structured expo
 
 ### Example Dataset Distribution
 
-![EDA Visualization Placeholder](images/eda_distribution.png)
-
-*Figure: Example distribution of exposures or outcomes in the dataset (replace with your screenshot).*
+<img width="1076" height="796" alt="Image" src="https://github.com/user-attachments/assets/0c50456f-44a9-4381-b9ef-a9ff5caa3f74" />
 
 ---
 
