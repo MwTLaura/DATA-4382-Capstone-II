@@ -210,14 +210,17 @@ env-health-extraction/
 ├── README.md                        # This file
 ├── requirements.txt                 # Python dependencies
 ├── data/
-│   └── taxonomy_reference.csv       # 3-layer taxonomy (428 records, 114 Layer 3 terms)
+│   └── CohortNetwork_ES%26T_SI_B_Main.xlsx      # 3-layer taxonomy (428 records, 114 Layer 3 terms)
 ├── notebooks/
 │   ├── Phase1.ipynb                 # Proof of concept & Google Scholar collection
 │   ├── Phase_2_PubMed.ipynb         # PubMed integration & scaling
 │   ├── Phase3.ipynb                 # Full-text access assessment (Selenium)
 │   ├── Phase_4-2.ipynb              # Semantic extraction & accuracy validation
 │   └── Phase5.ipynb                 # Production PDF pipeline (GPT-4o)
-
+├── important results/
+│   ├── aggressive_semantic_extraction_20260311_163232.csv       
+│   ├── aggressive_semantic_outcomes_20260311_161726.csv
+│   └── validation_metrics.csv       # Layer-by-layer accuracy vs. ground truth
 ```
 
 ---
