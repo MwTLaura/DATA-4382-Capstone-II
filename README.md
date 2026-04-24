@@ -215,7 +215,7 @@ env-health-extraction/
 │   ├── Phase1.ipynb                 # Proof of concept & Google Scholar collection
 │   ├── Phase_2_PubMed.ipynb         # PubMed integration & scaling
 │   ├── Phase3.ipynb                 # Full-text access assessment (Selenium)
-│   ├── Phase_4-2.ipynb              # Semantic extraction & accuracy validation
+│   ├── Phase_4.ipynb              # Semantic extraction & accuracy validation
 │   └── Phase5.ipynb                 # Production PDF pipeline (GPT-4o)
 ├── important results/
 │   ├── aggressive_semantic_extraction_20260311_163232.csv       
