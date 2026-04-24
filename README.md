@@ -121,15 +121,17 @@ This project develops an AI pipeline that automatically extracts structured expo
 
 ### Example Output
 
-![Model Output Screenshot](images/model_output.png)
+<img width="1489" height="810" alt="Image" src="https://github.com/user-attachments/assets/38eec67c-7bfa-43ca-8375-620fb17a0f47" />
 
-*Figure: Example structured extraction output (replace with your pipeline screenshot).*
 
 ### Performance Summary
+Phase 4 Results
+<img width="498" height="463" alt="Image" src="https://github.com/user-attachments/assets/06de1be9-f3e5-4b2d-bb96-3bf33431011f" />
 
-![Metrics Visualization Placeholder](images/metrics.png)
+Phase 5 Results
+<img width="741" height="263" alt="Image" src="https://github.com/user-attachments/assets/a9a78438-0b69-4473-9e15-a08be085ca0b" />
+<img width="1199" height="231" alt="Image" src="https://github.com/user-attachments/assets/27480457-cc5c-4041-844b-56c6d461d80b" />
 
-*Figure: Example performance summary or results table screenshot.*
 
 ---
 
