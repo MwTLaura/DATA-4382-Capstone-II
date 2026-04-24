@@ -34,7 +34,7 @@ This project develops an AI pipeline that automatically extracts structured expo
 **Ground Truth Dataset**
 
 * Source: VA Normative Aging Study
-* Link: [https://www.niehs.nih.gov/research/programs/geh/geh_newsletter/2018/2/articles/normative_aging_study.htm](https://www.niehs.nih.gov/research/programs/geh/geh_newsletter/2018/2/articles/normative_aging_study.htm)
+* Link: https://github.com/MwTLaura/DATA-4382-Capstone-II/blob/main/CohortNetwork_ES%26T_SI_B_Main.xlsx
 * Type: Expert-curated exposure-outcome annotations
 * Size: 428 records across 86 papers
 
