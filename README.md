@@ -185,15 +185,15 @@ The pipeline is production-ready and scalable to other research domains.
 
 1. Clone this repository
 
-2. Install dependencies
-pip install -r requirements.txt
+2. Install dependencies:
+ !pip install -r requirements.txt
 
-3. Set up your OpenAI API key
-Create a .env file in the root directory:
-OPENAI_API_KEY=your_key_here
+3. Set up your OpenAI API key:
+ Create a .env file in the root directory:
+ OPENAI_API_KEY=your_key_here
 
-4. Run the notebooks in order
-Phase1 → Phase5
+4. Run the notebooks in order:
+ Phase1 → Phase5
 
 ---
 
