@@ -183,23 +183,17 @@ The pipeline is production-ready and scalable to other research domains.
 
 ## 14. How to Run
 
-```bash
-git clone https://github.com/your-username/env-health-extraction.git
-cd env-health-extraction
+1. Clone this repository
+
+2. Install dependencies
 pip install -r requirements.txt
-```
 
-Create `.env` file:
-
-```
+3. Set up your OpenAI API key
+Create a .env file in the root directory:
 OPENAI_API_KEY=your_key_here
-```
 
-**Steps**
-
-1. Add PDFs to the specified folder
-2. Run notebooks (Phase1 → Phase5)
-3. Outputs saved in `results/`
+4. Run the notebooks in order
+Phase1 → Phase5
 
 ---
 
