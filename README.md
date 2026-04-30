@@ -240,9 +240,9 @@ pip install -r requirements.txt
 
 ---
 
-*Developed by Laura Tambwe Mwibashiye*
-*DATA 4382 Capstone, University of Texas at Arlington, Spring 2026*
-*Advisor: Dr. Yike Shen*
+- *Developed by Laura Tambwe Mwibashiye*
+- *DATA 4382 Capstone, University of Texas at Arlington, Spring 2026*
+- *Advisor: Dr. Yike Shen*
 
 ---
 
