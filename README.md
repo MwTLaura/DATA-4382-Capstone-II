@@ -36,7 +36,7 @@ This project develops an AI pipeline that automatically extracts structured expo
 * Source: VA Normative Aging Study
 * Link: https://github.com/MwTLaura/DATA-4382-Capstone-II/blob/main/CohortNetwork_ES%26T_SI_B_Main.xlsx
 * Type: Expert-curated exposure-outcome annotations
-* Size: 428 records across 86 papers
+* Size: 428 records across 121 papers
 
 **Production Corpus**
 
